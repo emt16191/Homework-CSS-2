@@ -1,1 +1,11 @@
-
+/* Урок 4 */
+/* Завдання №1 */
+.lesson-four-task-one button:hover {
+  color: red;
+  background: yellow;
+}
+/* Завдання №2 */
+.lesson-four-task-two a:hover ~ h1 {
+  color: green;
+}
+/* Завдання №3 */
